@@ -1,0 +1,11 @@
+{
+  "name": "ava",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "wulongbiao",
+  "license": "ISC"
+}
